@@ -3,7 +3,8 @@ Course: CEN 3024C
 CRN: 31950  
 
 
-# COP3330C-Project-6
+# COP3330C-Project-6  
+Generics
 
 Phillip Yohner
 COP 3330C - CRN 24680
